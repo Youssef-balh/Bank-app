@@ -1,4 +1,4 @@
-![image](https://github.com/Youssef-balh/Bank-app/assets/113738047/71ce609e-15ac-48ab-acdf-f97920535d94)# Bank-app
+# Bank-app
 Bank Desktop app in C#
 # Desktop Bank Application
 
@@ -63,14 +63,27 @@ The application uses a MySQL database with the following key entities:
    ```bash
    git clone https://github.com/yourusername/desktop-bank-app.git
 
-![image](https://github.com/Youssef-balh/Bank-app/assets/113738047/d217bd20-dccf-491e-8690-171b4ab1ecba)
-![image](https://github.com/Youssef-balh/Bank-app/assets/113738047/24023795-7eac-4996-9f77-cd82391e05a5)
 
-![image](https://github.com/Youssef-balh/Bank-app/assets/113738047/7c65f7d3-24b9-419e-9427-da273b6c018f)
-![image](https://github.com/Youssef-balh/Bank-app/assets/113738047/6a5f46c1-e19e-41f0-b69f-5e5674a0714d)
 
-![image](https://github.com/Youssef-balh/Bank-app/assets/113738047/6c6c45e1-7435-4548-a8de-898f746bd4c6)
-![image](https://github.com/Youssef-balh/Bank-app/assets/113738047/15d6d210-0825-40dd-9a65-58abe8656f6e)
+# Desktop Bank Application Screenshots
 
-![image](https://github.com/Youssef-balh/Bank-app/assets/113738047/76c97b20-33a7-43a6-826b-0503608c84c4)
-![image](https://github.com/Youssef-balh/Bank-app/assets/113738047/0eeac647-11b0-4e3e-977d-f24e8afbe75a)
+<table>
+  <tr>
+    <td><img src="https://github.com/Youssef-balh/Bank-app/assets/113738047/d217bd20-dccf-491e-8690-171b4ab1ecba" width="400"/></td>
+    <td><img src="https://github.com/Youssef-balh/Bank-app/assets/113738047/24023795-7eac-4996-9f77-cd82391e05a5" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Youssef-balh/Bank-app/assets/113738047/7c65f7d3-24b9-419e-9427-da273b6c018f" width="400"/></td>
+    <td><img src="https://github.com/Youssef-balh/Bank-app/assets/113738047/6a5f46c1-e19e-41f0-b69f-5e5674a0714d" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Youssef-balh/Bank-app/assets/113738047/6c6c45e1-7435-4548-a8de-898f746bd4c6" width="400"/></td>
+    <td><img src="https://github.com/Youssef-balh/Bank-app/assets/113738047/15d6d210-0825-40dd-9a65-58abe8656f6e" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Youssef-balh/Bank-app/assets/113738047/76c97b20-33a7-43a6-826b-0503608c84c4" width="400"/></td>
+    <td><img src="https://github.com/Youssef-balh/Bank-app/assets/113738047/0eeac647-11b0-4e3e-977d-f24e8afbe75a" width="400"/></td>
+  </tr>
+</table>
+
+
