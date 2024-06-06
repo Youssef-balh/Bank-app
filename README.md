@@ -62,8 +62,7 @@ The application uses a MySQL database with the following key entities:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/desktop-bank-app.git
-
-
+   ```
 
 # Desktop Bank Application Screenshots
 
